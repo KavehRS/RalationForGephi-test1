@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-
-"""
+# Kaveh RezaeiShiraz [http://kavehrs.com]
 
 import pandas as pd
 
